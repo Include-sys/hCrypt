@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/stub">
+        <file>stub.exe</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>hCrypt.ico</file>
+        <file>hCrypt.png</file>
+    </qresource>
+</RCC>
