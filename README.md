@@ -1,20 +1,7 @@
-# hCrypt
+# Repository Moved
 
-hCrypt is an open-source C++ Crypter.
-Stub coded in Visual Studio.
-Builder coded in Qt.
+This project moved to the GitLab due to this,
+https://github.blog/2021-04-29-call-for-feedback-policies-exploits-malware/
 
-# Features
-  - AES-256 Bit Encryption
-  - Virtual Machine Detection
-  - Almost FUD =)
-
-### ToDo List
-(High Priority to Lowest)
-  - File Pumper
-  - Stealth Injection Method
-  - Fancy Builder
-  - Anti Debugger Feature
-  - Unique Stub Creation
-
-I know these features are not even close to some commercial(and illegal) crypters. But thats what I can done in 2 days. :)
+GitLab link,
+https://gitlab.com/include_sys/hCrypt
